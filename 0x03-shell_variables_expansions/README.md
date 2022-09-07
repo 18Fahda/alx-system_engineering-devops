@@ -1,1 +1,1 @@
-POWER divided by DIVIDE
+BREATH to the power LOVE
