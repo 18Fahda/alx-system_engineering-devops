@@ -1,1 +1,1 @@
-hello user
+action to the PATH. /action
