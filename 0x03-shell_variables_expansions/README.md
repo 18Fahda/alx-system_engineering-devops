@@ -1,1 +1,1 @@
-TRUEKNOWLEDGE
+POWER divided by DIVIDE
