@@ -1,1 +1,1 @@
-7. Global variable
+TRUEKNOWLEDGE
