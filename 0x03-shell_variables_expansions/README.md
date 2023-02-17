@@ -1,1 +1,1 @@
-a script creating a new global variable
+a script printing addition of 128 with valued stored varibaleTRUEKWOLEDGE
