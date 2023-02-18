@@ -1,1 +1,1 @@
-divide and rule
+script that creates an alias
