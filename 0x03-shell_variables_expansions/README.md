@@ -1,1 +1,1 @@
-10 types of people
+a script that prints all possible combination of two letters except oo
