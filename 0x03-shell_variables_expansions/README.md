@@ -1,1 +1,1 @@
-LOVE
+10 types of people
